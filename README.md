@@ -16,6 +16,8 @@ This is a simple web project, deployment can be as any web server or even local 
 
 ## How To Contribute
 
+Please fork this repository abnd the issue pull requests for review.
+
 ### Copyright
 
 2018 Git.Training
