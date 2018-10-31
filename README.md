@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how top use Gir and Guthub together. Adding lineeeees.
+This is a simple website project for showing how top use Gir and Guthub together. Adding lineeeeeeees.
 
 ## Introduction
 
